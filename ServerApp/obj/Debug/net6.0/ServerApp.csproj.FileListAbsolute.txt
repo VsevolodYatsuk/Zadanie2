@@ -1,0 +1,15 @@
+C:\Users\Vsevolod\Documents\пересдача\Zadanie2\ServerApp\bin\Debug\net6.0\ServerApp.exe
+C:\Users\Vsevolod\Documents\пересдача\Zadanie2\ServerApp\bin\Debug\net6.0\ServerApp.deps.json
+C:\Users\Vsevolod\Documents\пересдача\Zadanie2\ServerApp\bin\Debug\net6.0\ServerApp.runtimeconfig.json
+C:\Users\Vsevolod\Documents\пересдача\Zadanie2\ServerApp\bin\Debug\net6.0\ServerApp.dll
+C:\Users\Vsevolod\Documents\пересдача\Zadanie2\ServerApp\bin\Debug\net6.0\ServerApp.pdb
+C:\Users\Vsevolod\Documents\пересдача\Zadanie2\ServerApp\obj\Debug\net6.0\ServerApp.csproj.AssemblyReference.cache
+C:\Users\Vsevolod\Documents\пересдача\Zadanie2\ServerApp\obj\Debug\net6.0\ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vsevolod\Documents\пересдача\Zadanie2\ServerApp\obj\Debug\net6.0\ServerApp.AssemblyInfoInputs.cache
+C:\Users\Vsevolod\Documents\пересдача\Zadanie2\ServerApp\obj\Debug\net6.0\ServerApp.AssemblyInfo.cs
+C:\Users\Vsevolod\Documents\пересдача\Zadanie2\ServerApp\obj\Debug\net6.0\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\Vsevolod\Documents\пересдача\Zadanie2\ServerApp\obj\Debug\net6.0\ServerApp.dll
+C:\Users\Vsevolod\Documents\пересдача\Zadanie2\ServerApp\obj\Debug\net6.0\refint\ServerApp.dll
+C:\Users\Vsevolod\Documents\пересдача\Zadanie2\ServerApp\obj\Debug\net6.0\ServerApp.pdb
+C:\Users\Vsevolod\Documents\пересдача\Zadanie2\ServerApp\obj\Debug\net6.0\ServerApp.genruntimeconfig.cache
+C:\Users\Vsevolod\Documents\пересдача\Zadanie2\ServerApp\obj\Debug\net6.0\ref\ServerApp.dll

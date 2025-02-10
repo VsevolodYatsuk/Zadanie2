@@ -1,0 +1,15 @@
+C:\Users\Vsevolod\Documents\пересдача\Zadanie2\ClientApp\bin\Debug\net6.0\ClientApp.exe
+C:\Users\Vsevolod\Documents\пересдача\Zadanie2\ClientApp\bin\Debug\net6.0\ClientApp.deps.json
+C:\Users\Vsevolod\Documents\пересдача\Zadanie2\ClientApp\bin\Debug\net6.0\ClientApp.runtimeconfig.json
+C:\Users\Vsevolod\Documents\пересдача\Zadanie2\ClientApp\bin\Debug\net6.0\ClientApp.dll
+C:\Users\Vsevolod\Documents\пересдача\Zadanie2\ClientApp\bin\Debug\net6.0\ClientApp.pdb
+C:\Users\Vsevolod\Documents\пересдача\Zadanie2\ClientApp\obj\Debug\net6.0\ClientApp.csproj.AssemblyReference.cache
+C:\Users\Vsevolod\Documents\пересдача\Zadanie2\ClientApp\obj\Debug\net6.0\ClientApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vsevolod\Documents\пересдача\Zadanie2\ClientApp\obj\Debug\net6.0\ClientApp.AssemblyInfoInputs.cache
+C:\Users\Vsevolod\Documents\пересдача\Zadanie2\ClientApp\obj\Debug\net6.0\ClientApp.AssemblyInfo.cs
+C:\Users\Vsevolod\Documents\пересдача\Zadanie2\ClientApp\obj\Debug\net6.0\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\Vsevolod\Documents\пересдача\Zadanie2\ClientApp\obj\Debug\net6.0\ClientApp.dll
+C:\Users\Vsevolod\Documents\пересдача\Zadanie2\ClientApp\obj\Debug\net6.0\refint\ClientApp.dll
+C:\Users\Vsevolod\Documents\пересдача\Zadanie2\ClientApp\obj\Debug\net6.0\ClientApp.pdb
+C:\Users\Vsevolod\Documents\пересдача\Zadanie2\ClientApp\obj\Debug\net6.0\ClientApp.genruntimeconfig.cache
+C:\Users\Vsevolod\Documents\пересдача\Zadanie2\ClientApp\obj\Debug\net6.0\ref\ClientApp.dll
